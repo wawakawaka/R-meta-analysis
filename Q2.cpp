@@ -7,3 +7,6 @@ int main()
 	cin >> max;
 	cout << "Please input the minimal length allowed for the edge: ";
 	cin >> min;
+	cout>>"Please":
+	return 0;
+}
